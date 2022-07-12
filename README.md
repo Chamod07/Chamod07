@@ -1,5 +1,5 @@
 <p align="center">
-⚡ Fun fact: Yes I am BatMan fan.
+Yes I am BatMan fan.
 </p>
 
 <p align="center">
@@ -18,6 +18,8 @@ Currently learning web developing and game programming, along with OOP
 
 <div align="center">
 
+<p>
 ![Chamod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical)
+</p>
 
 </div>
