@@ -12,7 +12,7 @@ Currently learning web developing and game programming, along with OOP
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Chamod07$color=red&label=UMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+PAGE:&style=flat)
+![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=NUMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+DOMAIN:&style=flat)
 
 </div>
 
