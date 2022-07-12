@@ -16,10 +16,10 @@ Currently learning web developing and game programming, along with OOP
 
 </div>
 
-<div align="center">
+<div align = "center">
 
 <p>
-![Chamod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical)
-</p>
 
-</div>
+![Chamod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical)
+
+</p>
