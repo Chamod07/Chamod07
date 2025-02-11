@@ -11,7 +11,7 @@ Currently learning web developing and game programming, along with OOP
 <br>
 
 <div align = "center">
-    <img style = "width: 15em; height: 15em;" src = "batman.svg">
+<!--     <img style = "width: 15em; height: 15em;" src = "batman.svg"> -->
 </div>
 
 
