@@ -63,8 +63,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod07&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod07&theme=radical"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamod07&theme=radical&layout=compact"/>
 </p>
 
