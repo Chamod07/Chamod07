@@ -1,30 +1,74 @@
-<p align="center">
-Yes I am Batman fan.
-</p>
 
-<p align="center">
-Currently learning web developing and game programming, along with OOP
-</p>
+<h1 align="center">👋 Hi, I'm Chamod</h1>
+<h3 align="center">A passionate developer exploring cloud development</h3>
 
 ---
-
-<br>
-
-<div align = "center">
-<!--     <img style = "width: 15em; height: 15em;" src = "batman.svg"> -->
-</div>
 
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=NUMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+DOMAIN:&style=flat)
+![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat)
 
 </div>
 
-<div align = "center">
 
-<p>
+- 🦇 Batman enthusiast and developer
+- 🌱 Currently learning machine learning and mobile development
+- 💡 Focused on API Gateway & Microservices
+- 🎮 Passionate about creating interactive experiences
 
-![Chamod07's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical)
+[//]: # (## 🛠️ Technologies & Tools)
 
+[//]: # ()
+[//]: # (**Languages & Frameworks**)
+
+[//]: # (<p align="left">)
+
+[//]: # (<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>)
+
+[//]: # (<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>)
+
+[//]: # (<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>)
+
+[//]: # (</p>)
+
+[//]: # (## 🚀 Featured Projects)
+
+[//]: # (**Real-Time Event Ticketing System**)
+
+[//]: # (- Built with Java using Concurrency and Producer-Consumer Pattern)
+
+[//]: # (- Handles multiple concurrent ticket bookings)
+
+[//]: # (- Implements real-time event management)
+
+[//]: # ()
+[//]: # (**Flight Booking Application**)
+
+[//]: # (- Java-based ticket booking system)
+
+[//]: # (- User-friendly interface)
+
+[//]: # (- Secure booking management)
+
+[//]: # ()
+[//]: # (**E-Commerce Cart System**)
+
+[//]: # (- Responsive web application with CSS animations)
+
+[//]: # (- Shopping cart functionality)
+
+[//]: # (- Seamless checkout process)
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod07&theme=radical"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamod07&theme=radical&layout=compact"/>
 </p>
+
+### 📫 How to reach me:
+- Email: chamodkarunathilake@gmail.com
+- LinkedIn: https://www.linkedin.com/in/chamod-karunathilake/
+- Portfolio: https://chamodk.vercel.app/
