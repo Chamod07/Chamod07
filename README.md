@@ -19,16 +19,6 @@
   - Designing real-time systems with WebSockets and event-driven patterns
 
 ---
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat)
-
-</div>
-
-- 🦇 Batman enthusiast and developer
-- 🌱 Currently learning machine learning and mobile development
-- 💡 Focused on API Gateway & Microservices
-- 🎮 Passionate about creating interactive experiences
 
 [//]: # (## 🛠️ Technologies & Tools)
 
@@ -74,6 +64,12 @@
 [//]: # (- Seamless checkout process)
 
 ## 📊 GitHub Statistics
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat)
+
+</div>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
