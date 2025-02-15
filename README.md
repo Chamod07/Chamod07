@@ -1,6 +1,6 @@
-Hi there! I'm **Chamod**, a passionate **Software Engineer** with expertise in building scalable, efficient, and innovative solutions. I enjoy creating robust backends, intuitive frontends, and exploring cloud-native architectures. My goal is to solve real-world problems through technology and contribute to open-source communities.
+# Chamod Karunathilake 👨‍💻
 
----
+<p align="center"> Hi there! I'm **Chamod**, a passionate **Software Engineer** with expertise in building scalable, efficient, and innovative solutions. I enjoy creating robust backends, intuitive frontends, and exploring cloud-native architectures. My goal is to solve real-world problems through technology and contribute to open-source communities.</p>
 
 ## 💡 About Me
 
