@@ -1,16 +1,13 @@
 
 <h1 align="center">👋 Hi, I'm Chamod</h1>
+
 <h3 align="center">A passionate developer exploring cloud development</h3>
-
----
-
 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat)
 
 </div>
-
 
 - 🦇 Batman enthusiast and developer
 - 🌱 Currently learning machine learning and mobile development
@@ -71,4 +68,4 @@
 ### 📫 How to reach me:
 - Email: chamodkarunathilake@gmail.com
 - LinkedIn: https://www.linkedin.com/in/chamod-karunathilake/
-- Portfolio: https://chamodk.vercel.app/
+- Portfolio: https://www.chamod.codes/
