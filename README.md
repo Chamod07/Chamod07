@@ -59,6 +59,8 @@
 
 ## 📊 GitHub Statistics
 
+![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/view?username=Chamod07&theme=dark) 
+
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
 <!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod07&theme=radical"/> -->
