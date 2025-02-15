@@ -68,6 +68,6 @@
 </p>
 
 ### 📫 How to reach me:
-- Email: chamodkarunathilake@gmail.com
-- LinkedIn: https://www.linkedin.com/in/chamod-karunathilake/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamod-karunathilake)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamodkarunathilake@gmail.com)
 - Portfolio: https://www.chamod.codes/
