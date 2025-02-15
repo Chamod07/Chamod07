@@ -59,15 +59,13 @@
 
 ## 📊 GitHub Statistics
 
-![3D Contribution Graph](https://github-profile-3d-contrib.vercel.app/view?username=Chamod07&theme=dark) 
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
-<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod07&theme=radical"/> -->
+ <img src="(https://github-profile-3d-contrib.vercel.app/view?username=Chamod07&theme=dark"/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamod07&theme=radical&layout=compact"/>
 </p>
 
 ### 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamod-karunathilake)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamodkarunathilake@gmail.com)
-- Portfolio: https://www.chamod.codes/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamod-karunathilake)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamodkarunathilake@gmail.com)
+[![Portfolio]](https://www.chamod.codes/)
