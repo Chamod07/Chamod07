@@ -1,10 +1,14 @@
 # Chamod Karunathilake 👨‍💻
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<p align="center"> 
-  
-  Hi there! I'm **Chamod**, a passionate **Software Engineer** with expertise in building scalable, efficient, and innovative solutions. I enjoy creating robust backends, intuitive frontends, and exploring cloud-native architectures. My goal is to solve real-world problems through technology and contribute to open-source communities.
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&color=00FFFF&center=true&vCenter=true&lines=Hello+World!+I'm+Chamod;Full-Stack+Developer;Cloud+Enthusiast;Open-Source+Contributor" alt="Typing SVG">
+  </h1>
+</div>
 
-</p>
 ## 💡 About Me
 
 - 🔭 **What I Like**:  
@@ -12,72 +16,72 @@
 
 - 🌱 **What I Can Do**:  
   I specialize in **backend development**, but I also enjoy working on the frontend and DevOps. Here's what I bring to the table:
-  - Building APIs with **Java** (Spring Boot)
-  - Creating dynamic frontends with **Angular**, **React** and **TypeScript**
+  - Building APIs with **Java** (Spring Boot) and **Python** (FastAPI)
   - Architecting serverless solutions using **AWS**
+  - Creating dynamic frontends with **Angular**, **React** and **TypeScript**
+  - Cross-platform mobile apps with **Flutter**
   - Containerizing apps with **Docker** and managing CI/CD pipelines
   - Designing real-time systems with WebSockets and event-driven patterns
 
 ---
 
-[//]: # (## 🛠️ Technologies & Tools)
+## 🚀 Featured Projects
 
-[//]: # ()
-[//]: # (**Languages & Frameworks**)
+Here are some of my favorite projects:
 
-[//]: # (<p align="left">)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Presently](https://github.com/Chamod07/Presently) | AI-powered Flutter app for improving speaking and presentation skills using **MediaPipe** for body language analysis and **Whisper** for voice processing. Features real-time feedback, scenario-based learning, and gamification. | Flutter · FastAPI · Supabase |
+| [API-Gateway](https://github.com/Chamod07/API-Gateway) | Cloud-native API Gateway with microservices, real-time monitoring, and scalable architecture. | Java |
+| [Serverless-Blog](https://github.com/Chamod07/Serverless-Blog) | A serverless blog using AWS S3, CloudFront, and Lambda@Edge for dynamic content. | AWS |
+| [Cotion](https://github.com/Chamod07/Cotion) | Real-time Notion-style text editor with document publishing and database updates. | TypeScript |
+| [AWS-MultiRegion-S3-Failover](https://github.com/Chamod07/AWS-MultiRegion-S3-Failover) | Cross-region replication for S3 buckets and automated failover using Route 53 health checks. | AWS |
+| [Ticketing-System](https://github.com/Chamod07/Ticketing-System) | Real-time event ticketing system with concurrency and producer-consumer pattern. | Java |
+---
 
-[//]: # (<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>)
+## 💻 Tech Stack
 
-[//]: # (<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>)
+### Backend
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 
-[//]: # (<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>)
+### Frontend
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-02769B?logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-[//]: # (</p>)
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-[//]: # (## 🚀 Featured Projects)
-
-[//]: # (**Real-Time Event Ticketing System**)
-
-[//]: # (- Built with Java using Concurrency and Producer-Consumer Pattern)
-
-[//]: # (- Handles multiple concurrent ticket bookings)
-
-[//]: # (- Implements real-time event management)
-
-[//]: # ()
-[//]: # (**Flight Booking Application**)
-
-[//]: # (- Java-based ticket booking system)
-
-[//]: # (- User-friendly interface)
-
-[//]: # (- Secure booking management)
-
-[//]: # ()
-[//]: # (**E-Commerce Cart System**)
-
-[//]: # (- Responsive web application with CSS animations)
-
-[//]: # (- Shopping cart functionality)
-
-[//]: # (- Seamless checkout process)
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat)
-
+  <img src="https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat"/>
 </div>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
- <img src="(https://github-profile-3d-contrib.vercel.app/view?username=Chamod07&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chamod07&theme=radical" alt="GitHub Streak Stats" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamod07&theme=radical&layout=compact"/>
 </p>
 
-### 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chamod-karunathilake)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamodkarunathilake@gmail.com)
-- [Portfolio](https://www.chamod.codes/)
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out! I'm always open to new opportunities, collaborations, or just a friendly chat. 😊  
+
+<div align="center">
+  <a href="mailto:chamodkarunathilake@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/chamod-karunathilake"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+
+🌐 **Portfolio**: [Visit My Website](https://www.chamod.codes/)
