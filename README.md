@@ -5,15 +5,16 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&color=e3e3e3&center=true&vCenter=true&lines=Hello+World!+I'm+Chamod;Full-Stack+Developer;Cloud+Solutions+Architect;Open-Source+Contributor" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=1000&color=e3e3e3&center=true&vCenter=true&lines=Full-Stack+Developer;Cloud+Solutions+Architect;Open-Source+Contributor" alt="Typing SVG">
   </h1>
 </div>
 
-Building cloud-native systems and real-time applications with a focus on:  
-- Scalable microservices & serverless architectures  
-- Full-stack development (**Spring Boot**, **FastAPI**, **Supabase**)  
-- DevOps practices (**AWS**, **Docker**, **CI/CD**)  
-- Modern frontends (**React**, **Angular**, **Flutter**)  
+> [!IMPORTANT]
+> ### Building cloud-native systems and real-time applications with a focus on: 
+> - Scalable microservices & serverless architectures  
+> - Full-stack development (**Spring Boot**, **FastAPI**, **Supabase**)  
+> - DevOps practices (**AWS**, **Docker**, **CI/CD**)  
+> - Modern frontends (**React**, **Angular**, **Flutter**)  
 
 <h2></h2>
 
@@ -30,7 +31,7 @@ Building cloud-native systems and real-time applications with a focus on:
 </p>
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Chamod07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Chamod07's GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Chamod07&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github" alt="Chamod07's GitHub Stats" />
   <img width="425" src="https://streak-stats.demolab.com?user=Chamod07&theme=tokyonight&hide_border=true" alt="Chamod07's GitHub Stats" />
 </div>
 
