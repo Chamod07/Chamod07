@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/Angular-%2320232a?style=for-the-badge&logo=angular&logoColor=DD0031" height="25" />
   <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=02769B" height="25" />
   <img src="https://img.shields.io/badge/Flutter-%2320232a?style=for-the-badge&logo=flutter&logoColor=02569B" height="25" />
-  <img src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript&logoColor=3178C6" height="25" />
 </p>
 
 <div align="center">
