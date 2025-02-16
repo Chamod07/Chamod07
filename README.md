@@ -65,9 +65,15 @@ Here are some of my favorite projects:
 <img src="https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Chamod07's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamod07&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Chamod07's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Chamod07&theme=tokyonight&hide_border=true" alt="Chamod07's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Chamod07's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Chamod07&theme=radical&hide_border=false" alt="Chamod07's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamod07&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Chamod07's GitHub Stats" />
 </p>
 
 ---
