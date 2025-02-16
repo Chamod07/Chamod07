@@ -62,9 +62,7 @@ Here are some of my favorite projects:
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=Chamod07&color=FF0000&label=Number+of+legends+reached:&style=flat"/>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Chamod07&show_icons=true&theme=radical"/>
